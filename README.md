@@ -12,20 +12,20 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I’m a Computer Engineering graduate (BSc in ICE, BAUET) currently focused on building full-stack web applications using the MERN stack. I love working with modern frontend tools like React and TailwindCSS and building backend APIs using Node.js and MongoDB.
 
 I’m always eager to learn new technologies and improve my coding practices through real-world projects and continuous exploration.
 
-### 🔄 Current Activities:
-- 🚀 Learning advanced React and Tailwind CSS  
-- ⚙️ Building MERN stack projects  
-- 🌐 Exploring Next.js and server-side rendering  
+###  Current Activities:
+-  Learning advanced React and Tailwind CSS  
+-  Building MERN stack projects  
+-  Exploring Next.js and server-side rendering  
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdbulbulhasan09)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdbulbulhasan)  
@@ -37,7 +37,7 @@ I’m always eager to learn new technologies and improve my coding practices thr
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -57,7 +57,7 @@ I’m always eager to learn new technologies and improve my coding practices thr
 
 ---
 
-## 🧠 GitHub Insights
+## GitHub Insights
 
 <!-- 🗂 Top Languages in Repositories -->
 <p align="center">
@@ -65,17 +65,17 @@ I’m always eager to learn new technologies and improve my coding practices thr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdbulbulhasan&theme=github_dark" />
 </p>
 
-<!-- 📈 Total Commits, PRs, Issues, Stars -->
+<!-- Total Commits, PRs, Issues, Stars -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdbulbulhasan&theme=github_dark" />
 </p>
 
-<!-- 🏆 Trophy Showcase -->
+<!-- Trophy Showcase -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdbulbulhasan&theme=darkhub&no-frame=true&margin-w=5&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 </p>
 
-<!-- ⏰ Time-Based Contributions -->
+<!-- Time-Based Contributions -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdbulbulhasan&theme=github-compact" />
 </p>
