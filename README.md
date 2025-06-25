@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td>
-      <img src="./assets/banner.png" alt="Banner" width="100%" />
+      <img src="https://i.ibb.co/kgh1zfZB/Web-prac.gif" alt="Banner" width="100%" />
     </td>
   </tr>
 </table>
