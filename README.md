@@ -80,18 +80,5 @@ I’m always eager to learn new technologies and improve my coding practices thr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdbulbulhasan&theme=github-compact" />
 </p>
 
-<!-- 📆 GitHub Calendar (as image fallback) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdbulbulhasan&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
-
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdbulbulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 
 <!-- Created by Md. Bulbul Hasan -->
