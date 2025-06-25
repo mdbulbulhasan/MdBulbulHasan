@@ -55,15 +55,36 @@ I’m always eager to learn new technologies and improve my coding practices thr
 
 ---
 
-## 📊 GitHub Stats
+---
 
+## 🧠 GitHub Insights
+
+<!-- 🗂 Top Languages in Repositories -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdbulbulhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Bulbul's GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mdbulbulhasan&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbulbulhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdbulbulhasan&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdbulbulhasan&theme=github_dark" />
 </p>
+
+<!-- 📈 Total Commits, PRs, Issues, Stars -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdbulbulhasan&theme=github_dark" />
+</p>
+
+<!-- 🏆 Trophy Showcase -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdbulbulhasan&theme=darkhub&no-frame=true&margin-w=5&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+</p>
+
+<!-- ⏰ Time-Based Contributions -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdbulbulhasan&theme=github-compact" />
+</p>
+
+<!-- 📆 GitHub Calendar (as image fallback) -->
+<p align="center">
+  <img src="https://github.com/mdbulbulhasan/mdbulbulhasan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 ---
 
