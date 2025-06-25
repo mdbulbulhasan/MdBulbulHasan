@@ -1,10 +1,6 @@
-<table width="100%">
-  <tr>
-    <td>
-      <img src="https://i.ibb.co/kgh1zfZB/Web-prac.gif" alt="Banner" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/Web_prac.gif" alt="Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Md Bulbul Hasan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
