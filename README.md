@@ -1,5 +1,5 @@
 <div>
-<img src="./assests/Web prac.gif" alt="mdbulbulhasan" /> </p>
+<img align="center" src="./assests/Web prac.gif" alt="mdbulbulhasan" /> </p>
 </div>
 <h1 align="center">Hi 👋, I'm Md Bulbul Hasan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
