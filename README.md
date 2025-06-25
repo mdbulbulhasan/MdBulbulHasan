@@ -82,8 +82,9 @@ I’m always eager to learn new technologies and improve my coding practices thr
 
 <!-- 📆 GitHub Calendar (as image fallback) -->
 <p align="center">
-  <img src="https://github.com/mdbulbulhasan/mdbulbulhasan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdbulbulhasan&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ---
