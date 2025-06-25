@@ -60,11 +60,9 @@ I’m always eager to learn new technologies and improve my coding practices thr
 ## 🧠 GitHub Insights
 
 <!-- 🗂 Top Languages in Repositories -->
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdbulbulhasan&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdbulbulhasan&theme=github_dark" />
 </p>
 
 <!-- 📈 Total Commits, PRs, Issues, Stars -->
