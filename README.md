@@ -1,6 +1,10 @@
-<div>
-<img align="center" src="./assests/Web prac.gif" alt="mdbulbulhasan" /> </p>
-</div>
+<table width="100%">
+  <tr>
+    <td>
+      <img src="./assets/banner.png" alt="Banner" width="100%" />
+    </td>
+  </tr>
+</table>
 <h1 align="center">Hi 👋, I'm Md Bulbul Hasan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
